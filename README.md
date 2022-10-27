@@ -1,6 +1,7 @@
 # SymMIP.jl : Symmetry analysis for MIPs
 
-
+Detect the formualtion symmetry group of a Mixed-Integer Linear Programming model, the group's orbits and generators are outputs.
+To do: Mixed-Integer Conic Programming model (linear inequalites should be extended to conic inequalities).
 ## Installation
 
 Add the package:
