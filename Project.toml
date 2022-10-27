@@ -1,0 +1,15 @@
+name = "SymMIP"
+uuid = "85ecbf7c-548e-4743-8723-42f71105ded8"
+authors = ["lidingxu <lidingx.zz@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+CPLEX = "a076750e-1247-5638-91d2-ce28b192dca0"
+Graphs = "86223c79-3864-5bf0-83f7-82e725a168b6"
+Gurobi = "2e9cd046-0924-5485-92f1-d5272153d98b"
+JuMP = "4076af6c-e467-56ae-b986-b466b2749572"
+MetaGraphsNext = "fa8bd995-216d-47f1-8a91-f3b68fbeb377"
+Printf = "de0858da-6303-5e67-8744-51eddeeeb8d7"
+SimpleGraphs = "55797a34-41de-5266-9ec1-32ac4eb504d3"
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+Traces = "5bf43a66-1d3f-4040-9eaa-1cf8e4301601"
