@@ -4,9 +4,9 @@ Detect the formualtion symmetry group of a Mixed-Integer Linear Programming mode
 To do: Mixed-Integer Conic Programming model (linear inequalites should be extended to conic inequalities).
 ## Installation
 
-Add the package:
+Add and install this package:
 ```julia
-pkg.add("https://github.com/lidingxu/Traces.jl.git")
+pkg.add("https://github.com/lidingxu/SymMIP.jl.git")
 ```
 
 
