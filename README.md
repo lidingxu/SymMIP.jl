@@ -13,7 +13,7 @@ pkg.add("https://github.com/lidingxu/Traces.jl.git")
 ## Example usage
 
 
-Read a JuMP MIP model and analysis its symmetry
+Read a JuMP MIP model and analyse its symmetry
 ```julia
 using JuMP
 using SymMIP
